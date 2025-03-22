@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-ahirwar-769aa92b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-ahirwar-769aa92b2/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ig._r0han_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig._r0han_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rohanahirwar457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rohanahirwar457" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gu2dyryvbc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gu2dyryvbc/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/gu2dYrYvbC/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gu2dyryvbc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
