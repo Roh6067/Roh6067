@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [MyFolio.link](MyFolio.link)
+- 👨‍💻 All of my projects are available at [MyFolio.link](https://portfolio-4tfu00ux7-roh6067s-projects.vercel.app/)
 
-- 💬 Ask me about **MYSQL, Java**
+- 💬 Ask me about **MYSQL, DBMS, CPP**
 
 - 📫 How to reach me **rohanahirwar457@gmail.com**
 
